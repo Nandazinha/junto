@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora {
+public class calculadora {
 
     public static void main(String[] args) {
 
@@ -47,6 +47,6 @@ public class Calculadora {
         }
 
     leia.close();
-    
+
     }
 }
